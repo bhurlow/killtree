@@ -1,0 +1,24 @@
+{
+  "name": "killtree",
+  "version": "0.0.1",
+  "description": "kill a process and it's relatives",
+  "main": "index.js",
+  "bin" : {
+    "killtree": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhurlow/killtree.git"
+  },
+  "keywords": [
+    "kill",
+    "process",
+    "tree"
+  ],
+  "author": "Brian Hurlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhurlow/killtree/issues"
+  },
+  "homepage": "https://github.com/bhurlow/killtree#readme"
+}
