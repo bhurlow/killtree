@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "kill a process and it's relatives",
   "main": "index.js",
-  "bin" : {
+  "bin": {
     "killtree": "./index.js"
   },
   "repository": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bhurlow/killtree/issues"
   },
-  "homepage": "https://github.com/bhurlow/killtree#readme"
+  "homepage": "https://github.com/bhurlow/killtree#readme",
+  "dependencies": {
+    "ps-tree": "^1.1.0"
+  }
 }
