@@ -1,6 +1,6 @@
 {
   "name": "killtree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "kill a process and it's relatives",
   "main": "index.js",
   "bin": {
